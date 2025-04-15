@@ -8,7 +8,7 @@ Step 2: Open the googld cloud speaker-list webpage.
 
 Step 3: Scrape all speaker name, job, company on this current page.
 
-Step 4: Click the next button for all pages. 
+Step 4: Click the next button.
 
 Step 5: Repeat Step 3-4 for all pages. 
 
